@@ -1,0 +1,1 @@
+[{"tarea": "An\u00e1lisis de Datos", "responsable": "Ana", "horas": 10, "completada": true}, {"tarea": "Limpieza de JSON", "responsable": "Beto", "horas": 15, "completada": false}, {"tarea": "Carga a SQL", "responsable": "Carla", "horas": 8, "completada": false}]
